@@ -41,7 +41,7 @@ Git
 
 ⚡ Quick Setup
 1. Clone the Repository
-bashgit clone https://github.com/your-username/AccuKnox-user-management-tests.git
+bashgit clone https://github.com/BharatGorani/AccuKnox-user-management-tests.git
 cd AccuKnox-user-management-tests
 2. Install Dependencies
 bashnpm install
